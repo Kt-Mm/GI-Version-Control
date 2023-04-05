@@ -1,0 +1,12 @@
+Question 1: Explain what terminal is, in your own words?:
+    -Using commands we are able to use it as a short cut to access our files on our computer in order
+    to create, edit, and delete both folders & files.
+
+Question 2: What is the major difference between git & github?:
+    -Git is locally installed in our computer system to use a command inline tool. Mean while
+    github is a service that is hosted on the web. Github allow users to work individually or on
+    a team to modify projects.
+
+Question 3: Why do we use github?:
+    -We use github to store, track and collaborate with team members for our working projects. It
+    makes it easy for users to share code, inorder to edit and save any modifications.
